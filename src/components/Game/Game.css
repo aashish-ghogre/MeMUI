@@ -1,0 +1,22 @@
+.game-box {
+  border-width: 1px;
+  border-color: #dde0da;
+  border-style: solid;
+  background-color: #dde0da;
+  border-radius: 12px;
+  width: 25%;
+  margin: 15px;
+  padding: 10px 5px 10px 10px;
+}
+.teams {
+  display: inline-flex;
+}
+.team {
+  padding: 2px;
+}
+.team-text {
+  padding-top: 5px;
+}
+.date-time {
+  text-align: center;
+}
